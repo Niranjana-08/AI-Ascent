@@ -20,7 +20,6 @@ This dashboard provides an analysis of LinkedIn job postings to uncover insights
 # Define the path to your graphs folder
 GRAPH_DIR = "graphs_new"
 
-# ==============================================================================
 # --- SECTION 1: INTERACTIVE OVERVIEW ---
 st.header("Interactive Job Market Overview")
 st.write("These charts provide a high-level, interactive view of the job market. Click on segments to zoom in and hover for more details.")
