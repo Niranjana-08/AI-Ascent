@@ -1,6 +1,3 @@
-# copied from app.py --> trying to make it look more better
-
-## Making few changes 
 import streamlit as st
 import streamlit.components.v1 as components
 import os
