@@ -23,14 +23,21 @@ This repository contains an end-to-end project analyzing the impact of Artificia
 <br>
 
 ## <img src=https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif height=40 width=40> Tools & Technology Used:
+
+
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"></a>
+<a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=jupyter&logoColor=white"></a>
 <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
 <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
 <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/scikit_learn-F7931E.svg?logo=scikitlearn&logoColor=white"></a>
+<a href="#"><img alt="Sentence Transformers" src="https://img.shields.io/badge/Sentence_Transformers-8A2BE2.svg?logo=huggingface&logoColor=white"></a>
 <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1.svg?logo=postgresql&logoColor=white"></a>
 <a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?logo=streamlit&logoColor=white"></a>
 <a href="#"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75.svg?logo=plotly&logoColor=white"></a>
 <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-3776AB.svg?logo=seaborn&logoColor=white"></a>
+<a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-006DB2.svg?logo=matplotlib&logoColor=white"></a>
+
+
 
 <br>
 
@@ -115,11 +122,9 @@ This repository contains an end-to-end project analyzing the impact of Artificia
 ## <img src=https://cdn1.vectorstock.com/i/1000x1000/45/70/dashboard-icon-vector-22894570.jpg height=50 width=50> Interactive Dashboard
 
 An interactive Streamlit dashboard has been developed to bring the analysis to life. It consolidates data from multiple sources and showcases visually engaging and interactive charts, maps, and graphs. This allows users to explore key metrics, filter data, and extract valuable insights on their own. The dashboard enhances data-driven decision-making and provides a clear, compelling narrative about the rise of AI in the job market.
-
-![image](https://github.com/Niranjana-08/AI-Ascent/raw/main/assets/interactive_dashboard.gif)
-
+Dashboard Preview :
+![Dashboard Preview](https://raw.githubusercontent.com/Niranjana-08/AI-Ascent/main/streamlit_app/graphs_new/preview_dashboard.png)
 <br>
-
 ## <img src=https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif height=50 width=50> Conclusions:
 
 <!---
