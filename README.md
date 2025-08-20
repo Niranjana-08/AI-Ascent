@@ -122,6 +122,7 @@ This repository contains an end-to-end project analyzing the impact of Artificia
 ## <img src=https://cdn1.vectorstock.com/i/1000x1000/45/70/dashboard-icon-vector-22894570.jpg height=50 width=50> Interactive Dashboard
 
 An interactive Streamlit dashboard has been developed to bring the analysis to life. It consolidates data from multiple sources and showcases visually engaging and interactive charts, maps, and graphs. This allows users to explore key metrics, filter data, and extract valuable insights on their own. The dashboard enhances data-driven decision-making and provides a clear, compelling narrative about the rise of AI in the job market.
+
 Dashboard Preview :
 ![Dashboard Preview](https://raw.githubusercontent.com/Niranjana-08/AI-Ascent/main/streamlit_app/graphs_new/preview_dashboard.png)
 <br>
