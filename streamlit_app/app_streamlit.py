@@ -18,7 +18,8 @@ This dashboard provides an analysis of LinkedIn job postings to uncover insights
 
 # --- DEFINE FILE PATHS ---
 # Define the path to your graphs folder
-GRAPH_DIR = "graphs_new"
+# GRAPH_DIR = "graphs_new"
+GRAPH_DIR = "streamlit_app/graphs_new"
 
 # --- SECTION 1: INTERACTIVE OVERVIEW ---
 st.header("Interactive Job Market Overview")
