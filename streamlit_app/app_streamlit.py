@@ -1,6 +1,3 @@
-# copied from app.py --> trying to make it look more better
-
-## Making few changes 
 import streamlit as st
 import streamlit.components.v1 as components
 import os
@@ -21,9 +18,9 @@ This dashboard provides an analysis of LinkedIn job postings to uncover insights
 
 # --- DEFINE FILE PATHS ---
 # Define the path to your graphs folder
-GRAPH_DIR = "graphs_new"
+# GRAPH_DIR = "graphs_new"
+GRAPH_DIR = "streamlit_app/graphs_new"
 
-# ==============================================================================
 # --- SECTION 1: INTERACTIVE OVERVIEW ---
 st.header("Interactive Job Market Overview")
 st.write("These charts provide a high-level, interactive view of the job market. Click on segments to zoom in and hover for more details.")
