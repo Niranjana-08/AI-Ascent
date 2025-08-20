@@ -145,8 +145,7 @@ Dashboard Preview :
 
 <br>
 
-## Check out the live interactive dashboard here: 
-[AI-Ascent Analysis Dashboard](http://ai-ascentgit-c2gtfbzhdrbgk7cztxguuk.streamlit.app/)
+## Check out the live interactive dashboard here: [AI-Ascent Analysis Dashboard](http://ai-ascentgit-c2gtfbzhdrbgk7cztxguuk.streamlit.app/)
 
 <!---# AI-Ascent
 A Data-Driven Analysis of the Rise of AI Careers on LinkedIn.
